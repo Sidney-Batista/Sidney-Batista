@@ -1,7 +1,7 @@
 ## About me
 
 <p align="center">
-Hi there 👋. I'm Sidney Batista, 26 years old, Software developer, born and raised on Salvador,Bahia.<br />
+Hi there 👋. I'm Sidney Batista, 28 years old, Software developer, born and raised on Salvador,Bahia.<br />
 👨‍🎓 System Analyst from <a href="https://www.unopar.com.br/" title="UNOPAR">UNOPAR.</a> <br />
 👨‍💻 Currently working with .NET at <a href="https://imap.org.br/" title="IMAP">IMAP.</a> <br />
 </p>
