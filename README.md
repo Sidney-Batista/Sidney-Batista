@@ -1,39 +1,46 @@
-## About me
+## About Me
 
 <p align="center">
-Hi there 👋. I'm Sidney Batista, 28 years old, Software developer, born and raised on Salvador,Bahia.<br />
-👨‍🎓 System Analyst from <a href="https://www.unopar.com.br/" title="UNOPAR">UNOPAR.</a> <br />
-👨‍💻 Currently working with .NET at <a href="https://imap.org.br/" title="IMAP">IMAP.</a> <br />
+Hi there! 👋 My name is <b>Sidney Batista</b>, I’m 29 years old and I was born and raised in Salvador, Brazil, where I currently live. I have been working as a software developer for the past five years, building solutions and learning new technologies every day. I hold a postgraduate degree in Software Engineering and am passionate about creating high-quality software that makes a difference. Let’s connect and collaborate!.<br/>
+  🎓 <b>Softwere engennir</b> graduated from <a href="https://estacio.br/" title="ESTÁCIO">ESTÁCIO</a>.<br/>
+  💻 Currently working with .NET technologies at <strong>ACB PROCESSAMENTO DE DADOS</strong>.<br/>
+  <br/>
+  Passionate about technology, problem-solving, and continuous learning.<br/>
 </p>
 
-### - Languages, tools and cool stuff that I use or already used...
-  
+---
+
+### 🚀 Tech Stack
+
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" title="C#/.NET" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" title="Javascript" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" title="Bootstrap" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" title="jQuery" alt="jquery" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" title="Visual Studio" alt="visual_studio" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:4px"/>
 </p>
 
-### - You can find me on:
+---
+
+### 🌎 Connect with me
 
 <p align="center">
-  <a href="mailto:sidneycezar96@gmail.com" title="sidneycezar96@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="murilo@muriloandrade.dev" style="vertical-align:top; margin:4px">
+  <a href="mailto:sidneycezar96@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sidney-batista/" target="_blank" title="Linkedin">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  <a href="https://www.linkedin.com/in/sidney-batista/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5571981454492&text=Hello!" target="_blank" title="WhatsApp">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>  
 </p>
 
- <p align="center">
+---
+
+<p align="center">
   <a href="https://github.com/Sidney-Batista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </p>
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
