@@ -38,9 +38,18 @@ Hi there! 👋 My name is <b>Sidney Batista</b>, I’m 29 years old and I was bo
 </p>
 
 ---
+### 💻 Most Used Languages
+  <br/>
+  <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Batista&layout=compact&langs_count=7&theme=dracula"/>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/Sidney-Batista">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+  <details>
+    <summary><b>📉&nbsp;&nbsp;Highlight Github :&nbsp;</b></summary>
+    <br/>
+  <p align="center">
+    <a href="https://github.com/Sidney-Batista">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+  </p>
+ </details>
