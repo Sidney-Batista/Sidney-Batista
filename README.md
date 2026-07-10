@@ -1,37 +1,59 @@
 ## About Me
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Sidney%20Batista&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20Developer%20%7C%20Angular&descAlignY=55&descSize=18" alt="Header banner" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Sidney-Batista">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I%27m+Sidney+Batista;Software+Developer+%7C+.NET+%7C+Angular;Passionate+about+Technology+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I%27m+Sidney+Batista;Software+Engineer+from+Salvador%2C+Brazil;Building+with+.NET%2C+Angular%2C+SQL+Server+and+Docker;Always+learning+and+shipping+better+solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidney-Batista&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sidney-Batista?style=flat-square&color=7F5AF0&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sidney-Batista?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=2CB67D&label=Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
-I was born and raised in Salvador, Brazil 🇧🇷, where I currently live. I have been working as a software developer for the past five years, building solutions and learning new technologies every day. I hold a postgraduate degree in Software Engineering and am passionate about creating high-quality software that makes a difference. Let's connect and collaborate!<br/>
-  <br/>
+  I was born and raised in Salvador, Brazil 🇧🇷, where I currently live.<br/>
+  I have been working as a software developer for the past five years, building solutions and learning new technologies every day.<br/>
   🎓 <b>Software Engineer</b> graduated from <a href="https://estacio.br/" title="ESTÁCIO">ESTÁCIO</a><br/>
   💻 Currently working with .NET technologies at <strong>ACB PROCESSAMENTO DE DADOS</strong><br/>
-  🚀 Passionate about technology, problem-solving, and continuous learning<br/>
+  🚀 Passionate about technology, problem-solving, and continuous learning
 </p>
+
+---
+
+### ✨ Highlights
+
+- 🔭 Focused on building modern backend and web solutions with **.NET** and **Angular**
+- 🧠 Interested in clean architecture, APIs, performance, and developer experience
+- 🐳 Using **Docker** to improve consistency across development workflows
+- 📚 Continuously improving skills in software design and scalable systems
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,python,docker,git,github,vscode&theme=dark" alt="Tech stack icons" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📌 Featured Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-.NET%20APIs-512BD4?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge" alt="Database" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge" alt="DevOps" />
 </p>
 
 ---
@@ -55,10 +77,14 @@ I was born and raised in Salvador, Brazil 🇧🇷, where I currently live. I ha
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=21600" alt="Sidney's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Batista&layout=compact&langs_count=7&theme=dracula&cache_seconds=21600" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600" alt="Sidney Batista GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Batista&layout=compact&langs_count=8&theme=dracula&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sidney-Batista&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidney-Batista&theme=dracula" alt="Profile summary" />
 </p>
