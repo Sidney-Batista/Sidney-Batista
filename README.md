@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidney-Batista&color=blueviolet&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Sidney-Batista?style=flat-square&color=7F5AF0&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Sidney-Batista?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=2CB67D&label=Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
@@ -74,17 +73,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600" alt="Sidney Batista GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Batista&layout=compact&langs_count=8&theme=dracula&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidney-Batista&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sidney-Batista&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidney-Batista&theme=dracula" alt="Profile summary" />
 </p>
